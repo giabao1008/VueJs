@@ -1,0 +1,18 @@
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.square{
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+    border: 1px solid lightblue;
+    display: inline-block;
+}
+.wrong{color: red;}
+.true{color: green;}
